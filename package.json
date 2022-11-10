@@ -21,7 +21,7 @@
   "devDependencies": {
     "@microsoft/ts-command-line": "^4.2.6",
     "@types/node": "^12.6.8",
-    "electron": "^11.5.0",
+    "electron": "^18.3.7",
     "ts-node": "^8.3.0",
     "tslint": "^5.18.0",
     "typescript": "^3.5.3"
